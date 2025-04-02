@@ -18,7 +18,7 @@ Mac/Linux:
 
 Và cuối cùng là chạy bài báo cáo bằng câu lệnh:
 
-streamlit run demo.py
+    streamlit run demo.py
 
 Chúc các bạn một ngày vui vẻ
 #10_diem
